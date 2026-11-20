@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harudetakahashi17
 - 👀 I’m interested in C# and Python.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C# and .NET.
 - 📫 How to reach me, DM on instagram @harudetakahashi
 
 <!---
